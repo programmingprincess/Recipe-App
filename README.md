@@ -10,7 +10,7 @@
 
 **Required** functionality completed:
 
-- [ ] Recipes by ingredients
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
