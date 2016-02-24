@@ -2,7 +2,7 @@
 
 **App Name** is a iOS app [description].
 
-**hours** hours spent in total
+**[hours]** hours spent in total
 
 ## User Stories
 
