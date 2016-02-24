@@ -2,18 +2,18 @@
 
 **App Name** is a iOS app [description].
 
-Time spent: **hours** hours spent in total
+**hours** hours spent in total
 
 ## User Stories
 
-**required** functionality completed:
+**Required** functionality completed:
 
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
 
-**optional** features implemented:
+**Optional** features implemented:
 
 - [ ] 
 - [ ] 
