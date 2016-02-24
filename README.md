@@ -1,19 +1,19 @@
-# Group Project - *Recipe-App*
+# Group Project - CodePathUniversity
 
-**Recipe-App** is a recipes app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**App Name** is a iOS app [description].
 
 Time spent: **hours** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is complete:
+**required** functionality completed:
 
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
 
-The following **optional** features are implemented:
+**optional** features implemented:
 
 - [ ] 
 - [ ] 
