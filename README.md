@@ -35,7 +35,7 @@ Challenges encountered while building the app.
 
 ## License
 
-    Copyright [2016] [Julio C. Hernandez-Duran, member 2, member 3, member 4]
+    Copyright [2016] [Julio C. Hernandez-Duran, Lilian Ngweta, member 3, member 4]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
