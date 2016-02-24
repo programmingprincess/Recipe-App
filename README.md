@@ -4,7 +4,7 @@
 
 **[hours]** hours spent in total
 
-## Week 1 (2/22/16 - 2/28/16)
+## Week 1 (Feb. 22nd-28th, 2016)
 
 ## User Stories
 
