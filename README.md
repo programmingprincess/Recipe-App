@@ -4,11 +4,13 @@
 
 **[hours]** hours spent in total
 
+**Week 1**
+
 ## User Stories
 
 **Required** functionality completed:
 
-- [ ] 
+- [ ] Recipes by ingredients
 - [ ] 
 - [ ] 
 - [ ] 
