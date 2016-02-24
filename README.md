@@ -4,7 +4,7 @@
 
 **[hours]** hours spent in total
 
-**Week 1**
+## Week 1
 
 ## User Stories
 
