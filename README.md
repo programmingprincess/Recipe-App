@@ -11,17 +11,14 @@
 **Required** functionality completed:
 
 - [ ] Setup API calls 
+- [ ] Indicator to show ingredients matched
 - [ ] User can search recipes by ingredients
 - [ ] User can input multiple ingredients
-- [ ] Indicator to show ingredients matched
 
 **Optional** features implemented:
 
 - [ ] User can save default ingredients 
 - [ ] User can get recipes by catergories
-- [ ] 
-- [ ] 
-- [ ] 
 
 ## Video Walkthrough 
 
