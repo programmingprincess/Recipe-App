@@ -11,13 +11,14 @@
 **Required** functionality completed:
 
 - [ ] Setup API calls 
+- [ ] Setup table view/collection view for recipe results storyboard
 - [ ] Indicator to show ingredients matched
 - [ ] User can search recipes by ingredients
 - [ ] User can input multiple ingredients
 
 **Optional** features implemented:
 
-- [ ] Startup screen with app logo
+- [ ] On startup user sees app logo with a backdrop
 - [ ] User can save default ingredients 
 - [ ] User can get recipes by catergories
 - [ ] Suggest ingredients based on previously selected ingredients
