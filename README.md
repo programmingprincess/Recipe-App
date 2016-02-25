@@ -17,6 +17,7 @@
 
 **Optional** features implemented:
 
+- [ ] Startup screen with app logo
 - [ ] User can save default ingredients 
 - [ ] User can get recipes by catergories
 
