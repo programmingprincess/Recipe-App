@@ -21,6 +21,7 @@
 - [ ] User can save default ingredients 
 - [ ] User can get recipes by catergories
 - [ ] Suggest ingredients based on previously selected ingredients
+- [ ] Search by nutrients
 
 ## Video Walkthrough 
 
