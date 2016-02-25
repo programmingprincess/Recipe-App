@@ -10,15 +10,15 @@
 
 **Required** functionality completed:
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Setup API calls 
+- [ ] User can search recipes by ingredients
+- [ ] User can input multiple ingredients
+- [ ]  
 
 **Optional** features implemented:
 
-- [ ] 
-- [ ] 
+- [ ] User can save default ingredients 
+- [ ] User can get recipes by catergories
 - [ ] 
 - [ ] 
 - [ ] 
@@ -35,7 +35,7 @@ Challenges encountered while building the app.
 
 ## License
 
-    Copyright [2016] [Julio C. Hernandez-Duran, Lilian Ngweta, member 3, member 4]
+    Copyright [2016] [Julio C. Hernandez-Duran, Lilian Ngweta, Jiaqi Wu, Nedu Robert]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
