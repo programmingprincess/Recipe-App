@@ -13,7 +13,7 @@
 - [ ] Setup API calls 
 - [ ] User can search recipes by ingredients
 - [ ] User can input multiple ingredients
-- [ ]  
+- [ ] Indicator to show ingredients matched
 
 **Optional** features implemented:
 
