@@ -1,8 +1,8 @@
 # Group Project - CodePathUniversity
 
-**App Name** is a iOS app [description].
+**HomeChef** is a iOS app [description].
 
-**[hours]** hours spent in total
+**30+** hours spent in total
 
 ## Week 1 (Feb. 22-28, 2016)
 
@@ -11,9 +11,9 @@
 **Required** functionality completed:
 
 - [ ] Setup API calls 
-- [ ] Setup table view/collection view for recipe results storyboard
-- [ ] Indicator to show ingredients matched
-- [ ] User can search recipes by ingredients
+- [X] Setup table view/collection view for recipe results storyboard
+- [X] Indicator to show ingredients matched
+- [X] User can search recipes by ingredients
 - [ ] User can input multiple ingredients
 
 **Optional** features implemented:
@@ -26,13 +26,11 @@
 
 ## Video Walkthrough 
 
-<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+To be added.
 
 ## Notes
 
-Challenges encountered while building the app.
+To be added.
 
 ## License
 
